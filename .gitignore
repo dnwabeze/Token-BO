@@ -1,0 +1,27 @@
+# Environment — never commit this
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Database and runtime data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

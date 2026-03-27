@@ -1,0 +1,26 @@
+# Scrapers
+twikit
+httpx>=0.27.0
+
+# Telegram
+python-telegram-bot>=21.0
+
+# Scheduling
+APScheduler>=3.10.4
+
+# Config
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# Utilities
+backoff>=2.2.1
+urllib3<2.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Sentiment analysis
+vaderSentiment>=3.3.2
+
+# Charts
+matplotlib>=3.8.0
+Pillow>=10.0.0
